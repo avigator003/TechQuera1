@@ -1,0 +1,138 @@
+#user5{
+    position:absolute;
+    top: 120px;
+    left: 70px;
+    border-radius: 5px;
+    
+}
+#user4{
+    position:absolute;
+    top: 120px;
+    left: 20px;
+    font-size:30px;
+    color: green;
+    
+}
+#email5{
+    position:absolute;
+    top: 180px;
+    left: 70px;
+    border-radius: 5px;
+    
+}
+#email4{
+    position:absolute;
+    top: 180px;
+    left: 20px;
+    font-size:30px;
+    color: green;
+    
+}
+
+#pass5{
+    position:absolute;
+    top: 240px;
+    left: 70px;
+    border-radius: 5px;
+    
+}
+#pass4{
+    position:absolute;
+    top: 240px;
+    left: 20px;
+    
+    font-size:30px;
+    color: green;
+    
+}
+#pass6{
+    position:absolute;
+    top: 300px;
+    left: 70px;
+    border-radius: 5px;
+    
+}
+#pass3{
+    position:absolute;
+    top: 300px;
+    left: 20px;
+    
+    font-size:30px;
+    color: green;
+    
+}
+
+body{
+    background-image: url("../images/project-item-05.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+table{
+    border-radius:5px;
+    height: 450px;
+    width:350px;
+    position:relative;
+    top:130px;
+    left:500px;
+    -webkit-box-shadow: -1px 0px 26px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 0px 26px 3px rgba(0,0,0,0.75);
+    box-shadow: -1px 0px 26px 3px rgba(0,0,0,0.75);
+    
+}
+
+#login{
+    position: relative;
+    top:7px;
+    left:680px;
+
+}
+#sign{
+    position: relative;
+    top:7px;
+    left:680px;
+
+}
+#sig1
+{
+    position: absolute;
+    top: 350px;
+    left: 20px;
+    background-color: #5cb85c;
+    color: red;
+    border-radius: 5px;
+    height: 30px;
+    width: 300px;
+}
+#account1{
+    position: absolute;
+color: red;
+    top: 400px;
+    left: 70px;
+}
+.footer{
+
+    position: fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:#999;
+    text-align: center;
+}
+#re
+{
+    font-size:35px;
+    position: absolute;
+color:blue;
+    top: 18px;
+    left: 45px;
+}
+#divider
+{
+    border-bottom:2px solid white;
+        position: absolute;
+width: 310px;
+    top: 70px;
+    left: 20px;
+}
